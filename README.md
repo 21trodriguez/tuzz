@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hey ther
 
-You can use the [editor on GitHub](https://github.com/21trodriguez/tuzz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We all like [cute pictures](https://www.dogbreedinfo.com/images8/PUGtubbs.jpg) so I linked one
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you know I found a really cool band called[Tame Impala](https://www.youtube.com/watch?v=S7mia9UMG4Y) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
