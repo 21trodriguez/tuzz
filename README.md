@@ -1,8 +1,8 @@
 ## Hey ther
 
-We all like [cute pictures](https://www.dogbreedinfo.com/images8/PUGtubbs.jpg) so I linked one
+We all like [cute pictures](https://www.dogbreedinfo.com/images8/PUGtubbs.jpg) so I linked one.
 
-you know I found a really cool band called[Tame Impala](https://www.youtube.com/watch?v=S7mia9UMG4Y) to rebuild the pages in your site, from the content in your Markdown files.
+you know I found a really cool band called[Tame Impala](https://www.youtube.com/watch?v=S7mia9UMG4Y), I liked it to a my facotite soong of theirs, New Person, Same Old Mistakes.
 
 ### Markdown
 
